@@ -1,4 +1,5 @@
 # --------------------------------------------------------
+# Our most core block of Hybrid-SSMs stems from a previous version of Medmamba.
 # Mamba-GIE：References：
 # Medmamba-Link: https://github.com/YubiaoYue/MedMamba
 # --------------------------------------------------------
