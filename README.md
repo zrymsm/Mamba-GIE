@@ -1,6 +1,6 @@
 # Mamba-GIE
 Mamba-GIE model implementation 
-(submit to APIN-2024.7.13(Reject)，KBS-8.21)
+(submit to APIN-2024.7.13(Reject)，KBS-8.21 (Rej), ESWA-2024.8.25(ur)..........)
 
 # Experimental hard- and software environment
 Nvidia RTX 4090 graphics card. The software environment is Ubuntu 22.04, PyTorch 2.14 and Python 3.10. 
