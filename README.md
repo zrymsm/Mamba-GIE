@@ -6,7 +6,7 @@ Mamba-GIE model implementation
 # Experimental hard- and software environment
 Nvidia RTX 4090 graphics card. The software environment is Ubuntu 22.04, PyTorch 2.14 and Python 3.10. 
 # Experimental results display
-The results of the core experiments have been published in screenshots, please refer to the **6** xxx.png images. Please note: For the **IS** indicator, all our models are computed under (Splits=1).
+The results of the core experiments records have been published in screen-shots, please refer to the **6** xxx.png images. Please note: For the **IS** indicator, all our models are computed under (Splits=1, in other words, all test samples are calculated as a whole).
 # Acknowledgments
 We thank U-Transformer, Medmamba, PIDnet, DEAnet, NeuralODE-OP for their excellent work that inspired and helped us at Manba-GIE.
 
