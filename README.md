@@ -1,4 +1,9 @@
 # Mamba-GIE: A Visual State Space Models-Based Generalized Image Extrapolation Method via Dual-level Adaptive Feature Fusion
+
+
+![Fig2](https://github.com/user-attachments/assets/092f5971-36cf-4f50-bc4a-6a1d67be23f7)
+
+
 ESWA-2025
 Mamba-GIE model implementation 
 (submit to APIN-2024.7.13(Reject)，KBS-8.21 (Rej), ESWA-2024.8.25(ur), ESWA-2024.11.25(Accept)!)
